@@ -11,7 +11,7 @@ Office hours: By appointment only.
 For FERPA reasons, I ask that you e-mail me [at my Columbia
 address](mailto:ap3328@columbia.edu) when discussing any matters related to
 this class or your grade. Personal or professional inquiries can go to [my
-personal address](atparrish@gmail.com).
+personal address](mailto:allison@decontextualize.com).
 
 ## Description
 
