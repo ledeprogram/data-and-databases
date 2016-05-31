@@ -82,11 +82,27 @@ to).
 
 ### Week 2 (May 31 and June 2)
 
+* SQL continued
+* IPython/Jupyter Notebooks.
+  [Basics](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb),
+  [Running
+  Code](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Running%20Code.ipynb), [Markdown tutorial](http://commonmark.org/help/)
 * [Installing Python
   Libraries](http://rwet.decontextualize.com/book/installing-python-libraries/)
+  (other notes TK)
 * [Using SQL in Python](SQL_in_Python.ipynb)
-* IPython/Jupyter Notebooks
 * [SQL and CSVs](CSV_to_SQL.ipynb)
+
+To install Jupyter Notebook on OSX:
+
+    sudo pip3 install jupyter
+
+Depending on how you've installed Python on Windows, try:
+
+    pip3 install jupyter
+    py -3 -m pip install jupyter
+
+[More info here.](http://jupyter.readthedocs.io/en/latest/install.html)
 
 Homework #2 (due June 7): TBD.
 
