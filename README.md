@@ -104,7 +104,7 @@ Depending on how you've installed Python on Windows, try:
 
 [More info here.](http://jupyter.readthedocs.io/en/latest/install.html)
 
-Homework #2 (due June 7): TBD.
+Homework #2 (due June 7): [Working with SQL](Homework_2.ipynb).
 
 ### Week 3 (June 7 and 9)
 
