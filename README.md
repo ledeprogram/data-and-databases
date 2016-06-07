@@ -108,7 +108,8 @@ Homework #2 (due June 7): [Working with SQL](Homework_2.ipynb).
 
 ### Week 3 (June 7 and 9)
 
-* [Scraping HTML with Beautiful Soup](Markup.ipynb)
+* [Scraping HTML with Beautiful Soup](Scraping_HTML.ipynb)
+* Further notes TK
 
 Homework #3 (due Jun 14): TBD.
 
