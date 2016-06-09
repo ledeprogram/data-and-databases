@@ -109,13 +109,13 @@ Homework #2 (due June 7): [Working with SQL](Homework_2.ipynb).
 ### Week 3 (June 7 and 9)
 
 * [Scraping HTML with Beautiful Soup](Scraping_HTML.ipynb)
-* Further notes TK
+* [HTML to SQL](HTML_to_SQL.ipynb)
 
-Homework #3 (due Jun 14): TBD.
+Homework #3 (due Jun 14): [Web scraping](Homework_3.ipynb).
 
 ### Week 4 (June 14 and 16)
 
-* Scraping and SQL (Notes TK)
+* [HTML to SQL](HTML_to_SQL.ipynb)
 * Using 3rd party libraries for API access (Twitter) (Notes TK)
 
 Homework #4 (due June 21): TBD.
