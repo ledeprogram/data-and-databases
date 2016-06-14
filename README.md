@@ -109,21 +109,24 @@ Homework #2 (due June 7): [Working with SQL](Homework_2.ipynb).
 ### Week 3 (June 7 and 9)
 
 * [Scraping HTML with Beautiful Soup](Scraping_HTML.ipynb)
-* [HTML to SQL](HTML_to_SQL.ipynb)
 
 Homework #3 (due Jun 14): [Web scraping](Homework_3.ipynb).
 
 ### Week 4 (June 14 and 16)
 
-* [HTML to SQL](HTML_to_SQL.ipynb)
-* Using 3rd party libraries for API access (Twitter) (Notes TK)
+* Working with unstructured data
+* [List
+  comprehensions](https://github.com/ledeprogram/courses/blob/master/databases/01%20Lists.ipynb)
+  (scroll down, needs to be translated to Python 3)
+* [Strings and regular
+  expressions](https://github.com/ledeprogram/courses/blob/master/databases-2015/03_Strings_and_Regular_Expressions.ipynb) (note: needs to be translated to Python 3!)
 
 Homework #4 (due June 21): TBD.
 
 ### Week 5 (June 21 and 23)
 
-* Working with unstructured data
-* Regular expressions (Notes TK)
+* [HTML to SQL](HTML_to_SQL.ipynb)
+* Using 3rd party libraries for API access (Twitter) (Notes TK)
 
 Homework #5 (due June 28): TBD.
 
