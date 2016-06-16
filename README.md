@@ -121,7 +121,7 @@ Homework #3 (due Jun 14): [Web scraping](Homework_3.ipynb).
 * [Strings and regular
   expressions](https://github.com/ledeprogram/courses/blob/master/databases-2015/03_Strings_and_Regular_Expressions.ipynb) (note: needs to be translated to Python 3!)
 
-Homework #4 (due June 21): TBD.
+Homework #4 (due June 21): [List comprehensions and regular expressions](Homework_4.ipynb)
 
 ### Week 5 (June 21 and 23)
 
