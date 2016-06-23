@@ -126,9 +126,8 @@ Homework #4 (due June 21): [List comprehensions and regular expressions](Homewor
 ### Week 5 (June 21 and 23)
 
 * [HTML to SQL](HTML_to_SQL.ipynb)
-* Using 3rd party libraries for API access (Twitter) (Notes TK)
 
-Homework #5 (due June 28): TBD.
+Homework #5 (due June 28): [SQL schema design](Homework_5.ipynb)
 
 ### Week 6 (June 28 and 30)
 
@@ -139,6 +138,7 @@ Homework #6 (due July 5): TBD.
 
 ### Week 7 (July 5 and 7)
 
+* Using 3rd party libraries for API access (Twitter) (Notes TK)
 * Twitter bots (Notes TK)
 * Selected topics
 
