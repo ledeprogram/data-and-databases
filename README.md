@@ -133,9 +133,8 @@ Homework #5 (due June 28): [SQL schema design](Homework_5.ipynb)
 
 * [Making a Flask app](Web_applications.ipynb) (the template files referenced
   can be found in the `templates` folder of this repository)
-* Designing a data-driven web API (Notes TK)
 
-Homework #6 (due July 5): TBD.
+Homework #6: [Web applications](Homework_6.ipynb).
 
 ### Week 7 (July 5 and 7)
 

@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+    <title>Country Information</title>
+    <style type="text/css">
+    body { max-width: 600px; margin: 1em auto; }
+    </style>
+</head>
+<body>
+    <h1>Country Information</h1>
+    <p>This page uses data from MONDIAL to inform you about a country.</p>
+    {% if country %}
+        <p>You asked for information on {{ country['name'] }}. This country
+        has {{ country['population'] }} people and its capital is
+        {{ country['capital'] }}.</p>
+    {% endif %}
+    <form action="/" method="GET">
+    Enter the name of a country here: <input type="text" name="lookup_name">
+    <input type="submit" value="Look up!!">
+    </form>
+    <p>{{ output }}</p> 
+</body>
+</html>
