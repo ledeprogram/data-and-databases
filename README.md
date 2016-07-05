@@ -138,7 +138,6 @@ Homework #6: [Web applications](Homework_6.ipynb).
 
 ### Week 7 (July 5 and 7)
 
-* Using 3rd party libraries for API access (Twitter) (Notes TK)
-* Twitter bots (Notes TK)
-* Selected topics
+* [The Twitter API](Twitter_API.ipynb)
+* Homework review and selected topics
 
