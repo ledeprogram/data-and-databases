@@ -148,4 +148,6 @@ should either respond to updates on an external data source (like [NYT
 Edits](https://twitter.com/congressedits)) or iterate through/randomly select
 data for presentation (like [Census
 Americans](https://twitter.com/censusamericans)). This extra credit assignment
-can make up for up to 5% of your final grade.
+can make up for up to 5% of your final grade. Complete this assignment by July
+12th. [Send me](mailto:ap3328@columbia.edu) a link to the Twitter bot and a zip
+file with the source code for the bot.
