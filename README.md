@@ -138,7 +138,8 @@ Homework #6: [Web applications](Homework_6.ipynb).
 
 ### Week 7 (July 5 and 7)
 
-* [The Twitter API](Twitter_API.ipynb)
+* [The Twitter API](Twitter_API.ipynb) (see completed `lake_bot.py` in this
+  repo)
 * Homework review
 * If we have time: [Intro to NLP with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 
