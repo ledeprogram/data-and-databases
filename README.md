@@ -139,5 +139,13 @@ Homework #6: [Web applications](Homework_6.ipynb).
 ### Week 7 (July 5 and 7)
 
 * [The Twitter API](Twitter_API.ipynb)
-* Homework review and selected topics
+* Homework review
+* If we have time: [Intro to NLP with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 
+*Extra credit homework assignment*: Create and deploy a Twitter bot. The bot
+should either respond to updates on an external data source (like [NYT
+4th Down Bot](https://twitter.com/nyt4thdownbot) or [Congress
+Edits](https://twitter.com/congressedits)) or iterate through/randomly select
+data for presentation (like [Census
+Americans](https://twitter.com/censusamericans)). This extra credit assignment
+can make up for up to 5% of your final grade.
